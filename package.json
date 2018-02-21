@@ -51,8 +51,8 @@
   "dependencies": {
     "d3-array": "^0.7.1",
     "d3-scale": "^0.6.4",
-    "react-d3-core": "^1.2.8",
-    "react-d3-shape": "^0.2.13",
+    "react-d3-core": "github:omnii/react-d3-core#d313ae2af11697780e95721691fd5feb377d1b9c",
+    "react-d3-shape": "github:omnii/react-d3-shape#b5121fab62db523ee9f5675cc1e277cf2aa5cce2",
     "react-faux-dom": "^2.1.0"
   }
 }
